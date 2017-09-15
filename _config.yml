@@ -1,8 +1,7 @@
 name: Crystal DeCell
 markdown: kramdown
- github: [metadata]
- encoding: UTF-8
- kramdown:
+encoding: UTF-8
+kramdown:
    input: GFM
    hard_wrap: false
  future: true
